@@ -1,0 +1,11 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+networkx==3.2.1
+scikit-learn==1.4.1.post1
+pandas==2.2.1
+numpy==1.26.4
+uuid==1.30
+sqlalchemy
+pydantic
+python-multipart
+cors

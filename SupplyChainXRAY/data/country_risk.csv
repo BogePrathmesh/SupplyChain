@@ -1,0 +1,6 @@
+GeographicDiversification,PoliticalStabilityIndex,TradeVolatility,LogisticsDelayRisk,country
+0.8,0.85,0.2,0.3,USA
+0.6,0.7,0.5,0.5,India
+0.4,0.6,0.8,0.6,China
+0.7,0.9,0.3,0.2,Germany
+0.5,0.5,0.7,0.7,Brazil

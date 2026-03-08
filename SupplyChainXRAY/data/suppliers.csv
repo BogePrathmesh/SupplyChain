@@ -1,0 +1,101 @@
+supplier_id,supplier_name,country,tier_level,product_type,dependency_percent,production_capacity,lead_time_days
+SUP_001,Supplier_1_T1,India,1,Amoxicillin API,22.25,15870,61
+SUP_002,Supplier_2_T2,China,2,Chemical Precursor A,32.94,15323,45
+SUP_003,Supplier_3_T3,India,3,Azithromycin API,40.55,25540,8
+SUP_004,Supplier_4_T2,USA,2,Amoxicillin API,86.86,9296,27
+SUP_005,Supplier_5_T2,India,2,Packaging Material,36.79,22814,46
+SUP_006,Supplier_6_T3,Germany,3,Metformin API,72.2,12235,63
+SUP_007,Supplier_7_T3,India,3,Packaging Material,22.86,2462,21
+SUP_008,Supplier_8_T3,China,3,Excipients,40.62,4526,67
+SUP_009,Supplier_9_T2,USA,2,Solvents,80.57,24942,18
+SUP_010,Supplier_10_T1,Brazil,1,Packaging Material,15.63,7087,52
+SUP_011,Supplier_11_T1,China,1,Chemical Precursor B,10.8,24743,29
+SUP_012,Supplier_12_T2,Brazil,2,Ibuprofen API,91.3,18178,14
+SUP_013,Supplier_13_T2,Brazil,2,Paracetamol API,57.91,44466,83
+SUP_014,Supplier_14_T3,Brazil,3,Azithromycin API,32.44,35143,84
+SUP_015,Supplier_15_T3,China,3,Azithromycin API,14.92,9600,8
+SUP_016,Supplier_16_T1,USA,1,Metformin API,39.15,30596,90
+SUP_017,Supplier_17_T2,China,2,Chemical Precursor A,57.14,15641,66
+SUP_018,Supplier_18_T1,USA,1,Chemical Precursor A,54.32,10355,55
+SUP_019,Supplier_19_T2,Brazil,2,Packaging Material,35.48,40292,80
+SUP_020,Supplier_20_T3,Brazil,3,Metformin API,90.34,30280,84
+SUP_021,Supplier_21_T3,India,3,Packaging Material,39.75,39260,10
+SUP_022,Supplier_22_T2,India,2,Amoxicillin API,64.22,24840,14
+SUP_023,Supplier_23_T3,China,3,Metformin API,70.11,16130,66
+SUP_024,Supplier_24_T2,USA,2,Chemical Precursor A,82.2,9285,64
+SUP_025,Supplier_25_T3,Germany,3,Packaging Material,58.59,27208,38
+SUP_026,Supplier_26_T1,India,1,Paracetamol API,28.43,17021,12
+SUP_027,Supplier_27_T3,India,3,Ibuprofen API,21.04,41199,84
+SUP_028,Supplier_28_T3,Brazil,3,Packaging Material,89.95,39276,5
+SUP_029,Supplier_29_T3,Germany,3,Metformin API,61.75,34651,86
+SUP_030,Supplier_30_T2,USA,2,Solvents,72.19,36461,21
+SUP_031,Supplier_31_T2,Brazil,2,Packaging Material,15.49,20739,82
+SUP_032,Supplier_32_T2,Germany,2,Chemical Precursor A,10.44,48746,12
+SUP_033,Supplier_33_T3,Brazil,3,Amoxicillin API,72.02,13560,18
+SUP_034,Supplier_34_T1,China,1,Excipients,26.54,31614,20
+SUP_035,Supplier_35_T3,USA,3,Amoxicillin API,14.9,29938,58
+SUP_036,Supplier_36_T2,Brazil,2,Ibuprofen API,8.76,6153,28
+SUP_037,Supplier_37_T1,USA,1,Azithromycin API,8.87,44858,17
+SUP_038,Supplier_38_T2,Brazil,2,Chemical Precursor B,55.89,6000,37
+SUP_039,Supplier_39_T3,Germany,3,Solvents,78.45,5702,46
+SUP_040,Supplier_40_T1,Brazil,1,Chemical Precursor B,47.86,49012,6
+SUP_041,Supplier_41_T3,Germany,3,Paracetamol API,25.95,30429,24
+SUP_042,Supplier_42_T3,Brazil,3,Chemical Precursor B,70.62,16642,78
+SUP_043,Supplier_43_T3,Germany,3,Chemical Precursor A,35.98,24599,37
+SUP_044,Supplier_44_T2,USA,2,Paracetamol API,75.76,46288,44
+SUP_045,Supplier_45_T3,USA,3,Amoxicillin API,10.77,1128,52
+SUP_046,Supplier_46_T3,China,3,Amoxicillin API,16.55,10784,40
+SUP_047,Supplier_47_T1,USA,1,Excipients,49.75,19724,29
+SUP_048,Supplier_48_T1,Germany,1,Ibuprofen API,69.55,29758,36
+SUP_049,Supplier_49_T3,Germany,3,Solvents,32.52,34437,16
+SUP_050,Supplier_50_T3,USA,3,Excipients,18.38,17969,84
+SUP_051,Supplier_51_T2,Germany,2,Amoxicillin API,53.73,14618,40
+SUP_052,Supplier_52_T3,Germany,3,Solvents,67.48,34850,41
+SUP_053,Supplier_53_T3,China,3,Excipients,36.31,46507,27
+SUP_054,Supplier_54_T2,India,2,Azithromycin API,22.97,29870,30
+SUP_055,Supplier_55_T3,China,3,Amoxicillin API,23.87,40838,65
+SUP_056,Supplier_56_T1,Germany,1,Chemical Precursor A,68.25,8582,50
+SUP_057,Supplier_57_T1,Brazil,1,Excipients,30.45,33871,29
+SUP_058,Supplier_58_T2,China,2,Packaging Material,22.35,44620,66
+SUP_059,Supplier_59_T3,China,3,Azithromycin API,71.24,29255,44
+SUP_060,Supplier_60_T1,Germany,1,Excipients,82.78,19742,6
+SUP_061,Supplier_61_T3,India,3,Azithromycin API,93.05,48359,47
+SUP_062,Supplier_62_T1,Brazil,1,Amoxicillin API,13.46,46592,75
+SUP_063,Supplier_63_T1,Brazil,1,Chemical Precursor A,83.28,31654,54
+SUP_064,Supplier_64_T3,Brazil,3,Packaging Material,33.47,38682,30
+SUP_065,Supplier_65_T3,China,3,Metformin API,60.55,44422,78
+SUP_066,Supplier_66_T2,India,2,Azithromycin API,38.01,43521,32
+SUP_067,Supplier_67_T3,Germany,3,Solvents,33.36,30470,86
+SUP_068,Supplier_68_T2,Brazil,2,Amoxicillin API,68.78,12661,7
+SUP_069,Supplier_69_T1,USA,1,Chemical Precursor B,80.2,3783,10
+SUP_070,Supplier_70_T3,China,3,Ibuprofen API,89.99,28886,60
+SUP_071,Supplier_71_T2,USA,2,Ibuprofen API,65.0,43986,49
+SUP_072,Supplier_72_T2,USA,2,Packaging Material,7.29,35385,50
+SUP_073,Supplier_73_T2,India,2,Azithromycin API,11.85,12558,14
+SUP_074,Supplier_74_T2,India,2,Solvents,65.58,9933,16
+SUP_075,Supplier_75_T3,Germany,3,Metformin API,35.74,31312,57
+SUP_076,Supplier_76_T1,USA,1,Excipients,36.38,48501,79
+SUP_077,Supplier_77_T1,Brazil,1,Metformin API,88.53,47899,42
+SUP_078,Supplier_78_T2,USA,2,Excipients,72.54,32396,45
+SUP_079,Supplier_79_T3,Germany,3,Metformin API,42.98,28253,62
+SUP_080,Supplier_80_T3,Germany,3,Ibuprofen API,64.84,41008,6
+SUP_081,Supplier_81_T3,Germany,3,Packaging Material,52.73,13005,22
+SUP_082,Supplier_82_T2,Brazil,2,Paracetamol API,64.68,37349,87
+SUP_083,Supplier_83_T3,India,3,Paracetamol API,44.41,21366,23
+SUP_084,Supplier_84_T2,Brazil,2,Chemical Precursor B,40.64,31023,24
+SUP_085,Supplier_85_T3,USA,3,Azithromycin API,65.69,25953,43
+SUP_086,Supplier_86_T2,Germany,2,Amoxicillin API,92.4,1846,11
+SUP_087,Supplier_87_T2,India,2,Solvents,59.41,3026,35
+SUP_088,Supplier_88_T3,China,3,Paracetamol API,28.5,48788,82
+SUP_089,Supplier_89_T3,USA,3,Amoxicillin API,14.83,47342,75
+SUP_090,Supplier_90_T1,India,1,Metformin API,61.82,7058,84
+SUP_091,Supplier_91_T3,USA,3,Chemical Precursor A,82.86,21354,59
+SUP_092,Supplier_92_T2,Germany,2,Solvents,55.38,23828,18
+SUP_093,Supplier_93_T1,USA,1,Chemical Precursor B,74.03,40359,51
+SUP_094,Supplier_94_T3,Germany,3,Solvents,31.22,11162,90
+SUP_095,Supplier_95_T2,USA,2,Packaging Material,66.95,47561,31
+SUP_096,Supplier_96_T2,USA,2,Packaging Material,87.75,22017,17
+SUP_097,Supplier_97_T2,USA,2,Chemical Precursor A,33.19,40011,63
+SUP_098,Supplier_98_T2,China,2,Chemical Precursor A,13.45,6448,14
+SUP_099,Supplier_99_T3,China,3,Paracetamol API,84.03,9028,15
+SUP_100,Supplier_100_T1,China,1,Chemical Precursor A,65.04,36777,34
